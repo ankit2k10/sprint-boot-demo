@@ -1,0 +1,11 @@
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
+#Gradle temporary files
+target/
+
+build/
+
+
